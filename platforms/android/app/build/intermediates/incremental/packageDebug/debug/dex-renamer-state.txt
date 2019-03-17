@@ -1,0 +1,4 @@
+#Sun Mar 17 00:25:37 BRT 2019
+base.0=C\:\\Users\\Lucas\\Desktop\\EC7\\LP3\\AgeOfEmpiresInfo\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

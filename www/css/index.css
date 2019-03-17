@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    background-image: url('../img/ageofempires.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    min-height: 100vh;
+}
+#info{
+    color: black;
+}
